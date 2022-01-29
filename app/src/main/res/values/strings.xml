@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidZeroToOne</string>
+    <string name="hello_world_1">Hello World 1!</string>
+    <string name="hello_world_2">Hello World 2!</string>
 </resources>
